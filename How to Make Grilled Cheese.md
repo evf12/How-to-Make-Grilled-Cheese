@@ -24,4 +24,5 @@ Total: 10 min.
 8. Cook for additional 30 seconds or until desired crispiness on each side
 9. Garnish with **parsley**
 10. Plate the sandwich and cut in half diagonally 
-Enjoy!
+
+- Enjoy!
