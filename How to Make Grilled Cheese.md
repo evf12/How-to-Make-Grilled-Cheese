@@ -25,4 +25,4 @@ Total: 10 min.
 9. Garnish with **parsley**
 10. Plate the sandwich and cut in half diagonally 
 
-- Enjoy!
+ Enjoy!
