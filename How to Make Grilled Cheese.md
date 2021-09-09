@@ -1,7 +1,7 @@
 ﻿## How to Make Garlic Bread Grilled Cheese
-![sandwich]()
+![sandwich](sandwich.jpg)
 ### Need something quick and easy? Then this is your meal.
-The great thing about grilled cheese is that you only need 3 ingredients. Just grab whatever bread got, some cheese, and butter and you are good to go. 
+The great thing about grilled cheese is that you only need 3 ingredients. Just grab whatever bread you got, some cheese, and butter and you are good to go. If you have basic seasonings, then you can bring it to that next level. Feel free to add meat or veggies, this recipe is a solid base to experiment with your cooking and figure out what goes well together.  
 ## Time 
 Prep: 5 min.
 Cook: 5 min
