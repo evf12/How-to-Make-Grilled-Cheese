@@ -2,17 +2,19 @@
 ![sandwich](sandwich.jpg)
 ### Need something quick and easy? Then this is your meal.
 The great thing about grilled cheese is that you only need 3 ingredients. Just grab whatever bread you got, some cheese, and butter and you are good to go. If you have basic seasonings, then you can bring it to that next level. Feel free to add meat or veggies, this recipe is a solid base to experiment with your cooking and figure out what goes well together.  
-## Time 
+>## Time 
 Prep: 5 min.
+
 Cook: 5 min
+
 Total: 10 min.
-## Ingredients
+>## Ingredients
  - 2 slices of bread
  - Your choice of cheese(s)
  - Butter
  - Garlic Salt/Powder
  - Parsley 
-## Steps
+>## Steps
 1. Spread **butter** on one side of each piece of **bread** and sprinkle on **garlic salt/powder**
 2. Heat skillet on Medium
 3. Melt **1 tablespoon of butter** in skillet and distribute evenly in pan
